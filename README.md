@@ -1,6 +1,8 @@
 # YSAP
 
+[![Deploy static content to Pages](https://github.com/AlexHedley/ysap/actions/workflows/static.yml/badge.svg)](https://github.com/AlexHedley/ysap/actions/workflows/static.yml)
 
+- https://alexhedley.github.io/ysap/
 
 ---
 
